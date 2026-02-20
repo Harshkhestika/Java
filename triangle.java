@@ -8,7 +8,7 @@ class triangle {
         int b = q.nextInt();
         int c = q.nextInt();
         if ((a + b) > c && (b + c) > a && (c + a) > b) {
-            System.out.println("valid triangle");
+            System.out.println("Valid triangle");
         } else {
             System.out.println("not valid triangle's");
         }
@@ -16,6 +16,7 @@ class triangle {
     }
 
 }
+
 
 
 
