@@ -1,5 +1,4 @@
 import java.util.*;
-
 class triangle {
     
     public static void main(String[] args) {
@@ -18,6 +17,7 @@ class triangle {
     }
 
 }
+
 
 
 
