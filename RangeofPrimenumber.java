@@ -10,6 +10,7 @@ public class RangeofPrimenumber {
             int b = 0;
             for (int j = 2; j < i; j++) {
                 if (i % j == 0) {
+                    
                     b++;
                     break;
                 }
@@ -21,6 +22,7 @@ public class RangeofPrimenumber {
     }
 
 }
+
 
 
 
