@@ -1,7 +1,6 @@
 // 1) prime number within a given range
 
 import java.util.*;
-
 public class RangeofPrimenumber {
     public static void main(String[] args) {
         Scanner q = new Scanner(System.in);
@@ -20,4 +19,5 @@ public class RangeofPrimenumber {
             }
         }
     }
+
 }
