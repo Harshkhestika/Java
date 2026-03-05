@@ -15,8 +15,10 @@ public class primenumber {
             System.out.println("Is prime");
             
         }
+        
     }
 }
+
 
 
 
