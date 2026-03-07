@@ -10,6 +10,7 @@ public class primenumber {
                 b++;
         }
 
+
         
         if (b > 0) {
             System.out.println("not prime");
@@ -19,6 +20,7 @@ public class primenumber {
         }
     }
 }
+
 
 
 
