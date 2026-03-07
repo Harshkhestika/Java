@@ -9,6 +9,7 @@ public class primenumber {
             if (a % i == 0)
                 b++;
         }
+        
         if (b > 0) {
             System.out.println("not prime");
         } else {
@@ -17,6 +18,7 @@ public class primenumber {
         }
     }
 }
+
 
 
 
