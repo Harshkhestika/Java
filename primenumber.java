@@ -16,9 +16,8 @@ public class primenumber {
             
         }
     }
-
-    
 }
+
 
 
 
