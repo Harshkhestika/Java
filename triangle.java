@@ -1,6 +1,7 @@
 import java.util.*;
 class triangle {
     public static void main(String[] args) {
+        
         Scanner q = new Scanner(System.in);
         int a = q.nextInt();
         int b = q.nextInt();
@@ -14,6 +15,7 @@ class triangle {
         }
     }
 }
+
 
 
 
