@@ -7,6 +7,7 @@ class triangle {
         int b = q.nextInt();
         int c = q.nextInt();
 
+
         
         
         if ((a + b) > c && (b + c) > a && (c + a) > b) {
@@ -17,6 +18,7 @@ class triangle {
         }
     }
 }
+
 
 
 
