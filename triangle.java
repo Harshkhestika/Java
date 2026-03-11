@@ -5,6 +5,7 @@ class triangle {
 
         
         Scanner q = new Scanner(System.in);
+        
         int a = q.nextInt();
         int b = q.nextInt();
         int c = q.nextInt();
@@ -16,6 +17,7 @@ class triangle {
         }
     }
 }
+
 
 
 
