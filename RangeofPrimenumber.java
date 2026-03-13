@@ -16,6 +16,7 @@ public class RangeofPrimenumber {
             }
 
             
+            
             if (b == 0) {
                 System.out.print(i + " ");
             }
