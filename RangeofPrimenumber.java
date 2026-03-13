@@ -12,6 +12,7 @@ public class RangeofPrimenumber {
                     b++;
                     break;
                 }
+                
             }
 
 
