@@ -13,6 +13,7 @@ public class RangeofPrimenumber {
                     break;
                 }
             }
+
             
             if (b == 0) {
                 System.out.print(i + " ");
