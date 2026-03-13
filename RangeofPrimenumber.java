@@ -14,6 +14,7 @@ public class RangeofPrimenumber {
                 }
             }
 
+            
 
             
             if (b == 0) {
