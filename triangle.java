@@ -12,6 +12,7 @@ class triangle {
             System.out.println("Not valid triangle's");
         }
     }
+    
 }
 
 
