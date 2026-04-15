@@ -10,6 +10,7 @@ class triangle {
         }  
 
             
+            
         else {
             System.out.println("Not valid triangle's");
         }
