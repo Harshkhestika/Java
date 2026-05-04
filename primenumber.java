@@ -13,7 +13,6 @@ public class primenumber {
             System.out.println("not prime");
         } else {
             System.out.println("Is prime");
-            
         }
     }
 }
