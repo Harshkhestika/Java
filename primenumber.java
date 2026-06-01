@@ -5,7 +5,8 @@ public class primenumber  {
         int a = q.nextInt();
         int b = 0;
         int c ;   
-        for (int i = 2; i < a; i++) {
+        for (int i = 2; i < a; i++) { 
+            
             if (a % i == 0)
                 b++;
         }         
