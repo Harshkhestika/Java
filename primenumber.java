@@ -8,7 +8,7 @@ public class primenumber  {
         int c ;    
         for (int i = 2; i < a; i++) { 
             if (a % i == 0)    
-                b++; 
+                b++;  
         }           
         if (b > 0) {
             System.out.println("not prime") ;
