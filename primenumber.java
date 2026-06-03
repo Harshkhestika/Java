@@ -12,7 +12,7 @@ public class primenumber  {
         }           
         if (b > 0) {
             System.out.println("not prime") ;
-        } else {
+        } else { 
             System.out.println("Is prime") ;
         }
     } 
