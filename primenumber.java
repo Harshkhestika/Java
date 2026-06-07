@@ -15,7 +15,7 @@ public class primenumber  {
         } else { 
             System.out.println("Is prime") ;
         } 
-    } 
+    }  
 } 
 
 
