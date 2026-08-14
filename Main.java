@@ -8,7 +8,7 @@ public class Main {
         int b = 0; 
         int c;   
         for (int i = 2; i < a; i++) {  
-            if (a % i == 0)
+            if (a % i == 0) 
                 b++;   // 
         }     
   
